@@ -16,7 +16,19 @@ This project aims to visualize the distribution of a categorical or continuous v
 
 
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/z_yfw-RMN5so0Iw9XhZHLQyNtqsfcHorYQ-JZGL5u0Kd13_7vsBEVo03_mN1C4LX2zj64YZgLCHQAs9-A-DB57QNjSW8oj-nZHjwEfdjZkLzA8WZGvd_Txpiqvntcwd98r-gx_i0" alt="Titanic Classification" width="200">
+  <img src="https://lh6.googleusercontent.com/z_yfw-RMN5so0Iw9XhZHLQyNtqsfcHorYQ-JZGL5u0Kd13_7vsBEVo03_mN1C4LX2zj64YZgLCHQAs9-A-DB57QNjSW8oj-nZHjwEfdjZkLzA8WZGvd_Txpiqvntcwd98r-gx_i0" alt="Titanic Classification" width="300">
 </p> 
 
 # [Task-2 Bank Marketing Dataset - Decision Tree Classifier](https://github.com/Deepak-kumar-cse/PRODIGY_TrackCode_TaskNumber/tree/main/PRODIGY_DS_02) 
+
+## Overview 
+This project aims to predict whether a customer will purchase a product or service based on their demographic and behavioral data using a decision tree classifier. The Bank Marketing dataset from the UCI Machine Learning Repository is used for this purpose.
+
+## Prerequisites
+- Python (version X.X.X)
+- scikit-learn (version X.X.X)
+- pandas (version X.X.X)
+
+## Installation
+1. Clone this repository.
+2. Install the required dependencies using pip:
