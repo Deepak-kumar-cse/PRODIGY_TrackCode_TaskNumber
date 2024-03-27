@@ -6,7 +6,7 @@
 This Task is part of an internship at Prodigy InfoTech. Prodigy InfoTech provides opportunities for students and professionals to gain practical experience in various fields through internships and projects.  
 
 <p align="center">
-  <img src="https://assets-global.website-files.com/621e95f9ac30687a56e4297e/64adca5e00190e5600663e82_V2_1681695077683_c21ca738-a949-4f27-aafa-35e662ddb9cf_HIGH_RES.png" alt="Titanic Classification" width="200">
+  <img src="https://assets-global.website-files.com/621e95f9ac30687a56e4297e/64adca5e00190e5600663e82_V2_1681695077683_c21ca738-a949-4f27-aafa-35e662ddb9cf_HIGH_RES.png" alt="Titanic Classification" width="350">
 </p> 
 
 # [Task-1 Data Visualization: Bar Chart and Histogram](https://github.com/Deepak-kumar-cse/PRODIGY_TrackCode_TaskNumber/tree/main/PRODIGY_DS_01) 
