@@ -29,6 +29,28 @@ This project aims to predict whether a customer will purchase a product or servi
 - scikit-learn (version X.X.X)
 - pandas (version X.X.X)
 
-## Installation
-1. Clone this repository.
-2. Install the required dependencies using pip:
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C5612AQE5JvSGdEV8Yw/article-inline_image-shrink_1500_2232/0/1520210230031?e=1716422400&v=beta&t=vXgYzWGfOGZEfjsyJ3FJhnY8xVkREppdER5q0-b-_y8" width="200">
+</p> 
+
+
+# [Task-3 Analyze and visualize sentiment patterns](https://github.com/Deepak-kumar-cse/PRODIGY_TrackCode_TaskNumber/tree/main/PRODIGY_DS_03) 
+
+## Overview
+This project aims to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
+## Dependencies
+- Python (version X.X.X)
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- nltk (Natural Language Toolkit)
+- scikit-learn
+- etc. (any other libraries used)
+
+
+## License
+- Information about the project's license (e.g., MIT License, Apache License 2.0).
+
