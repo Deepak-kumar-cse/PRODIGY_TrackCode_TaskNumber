@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.researchgate.net/publication/364168530/figure/fig3/AS:11431281088266968@1665015643227/Classification-accuracy-of-traffic-accident-data-set.jpg" width="350">
+  <img src="https://www.mdpi.com/computers/computers-10-00148/article_deploy/html/images/computers-10-00148-g002.png" width="350">
 </p> 
 
 
