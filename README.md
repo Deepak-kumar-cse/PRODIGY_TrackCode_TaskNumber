@@ -31,7 +31,7 @@ This project aims to predict whether a customer will purchase a product or servi
 
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C5612AQE5JvSGdEV8Yw/article-inline_image-shrink_1500_2232/0/1520210230031?e=1716422400&v=beta&t=vXgYzWGfOGZEfjsyJ3FJhnY8xVkREppdER5q0-b-_y8" width="200">
+  <img src="https://media.licdn.com/dms/image/C5612AQE5JvSGdEV8Yw/article-inline_image-shrink_1500_2232/0/1520210230031?e=1716422400&v=beta&t=vXgYzWGfOGZEfjsyJ3FJhnY8xVkREppdER5q0-b-_y8" width="350">
 </p> 
 
 
