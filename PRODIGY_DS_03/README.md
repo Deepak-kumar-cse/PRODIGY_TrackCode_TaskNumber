@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/C5612AQE5JvSGdEV8Yw/article-inline_image-shrink_1500_2232/0/1520210230031?e=1716422400&v=beta&t=vXgYzWGfOGZEfjsyJ3FJhnY8xVkREppdER5q0-b-_y8" alt="Bharat Intern" width="300">
 </p>  
 
-# Sentiment Analysis Project 
+# [Sentiment Analysis Project](https://github.com/Deepak-kumar-cse/PRODIGY_TrackCode_TaskNumber/blob/main/PRODIGY_DS_03) 
 
 ## Overview
 This project aims to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. 
